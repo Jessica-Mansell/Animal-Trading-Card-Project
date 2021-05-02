@@ -1,0 +1,47 @@
+h3 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 26pt;
+  color: rgb(179, 0, 0);
+  text-align: center;
+  text-shadow: 1px 2px black;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 200px;
+}
+
+span {
+  font-weight: bold;
+}
+
+#interesting-fact {
+  font-style: italic;
+}
+
+#container {
+  width: 310px;
+  height: 750px;
+  background-color: #fcba03;
+  margin: 10px;
+  border: 1px;
+  padding: 10px;
+  border-style: outset;
+  box-shadow: 10px 10px 5px rgb(102, 102, 102);
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.animal-info {
+  border-style: solid;
+  border-color: red;
+  border-width: 0.5px;
+  margin: 10px;
+  padding: 10px;
+}
