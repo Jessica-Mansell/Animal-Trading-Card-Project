@@ -1,9 +1,10 @@
 h3 {
-  font-family: 'Dancing Script', cursive;
-  font-size: 26pt;
+  font-family: 'Dancing Script', Georgia, fantasy;
+  font-size: 32pt;
   color: rgb(179, 0, 0);
   text-align: center;
   text-shadow: 1px 2px black;
+
 }
 
 img {
@@ -23,7 +24,7 @@ span {
 }
 
 #container {
-  width: 310px;
+  width: 350px;
   height: 750px;
   background-color: #fcba03;
   margin: 10px;
